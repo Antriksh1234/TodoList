@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="selection">#FF1DE9B6</color>
+    <color name="defaultColor">#1A237E</color>
+    <color name="taskselected">#43dde6</color>
+    <color name="tasknotselected">#fc5185</color>
+    <color name="upperarea">#E63E71</color>
+    <color name="improve">#B2FF59</color>
+    <color name="decrease">#FF5252</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="openApp">#364f6b</color>
+    <color name="background">#364f6b</color>
+    <color name="itembackground">#273D55</color>
+</resources>
